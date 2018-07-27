@@ -29,10 +29,10 @@ h1{	font-weight: bold;
 	line-height: 40px;
 }
 .milieu {
-	margin: 0 auto;
+	margin: auto;
 	padding: 15%;
 	box-shadow: 2px 2px 4px black;
-	height: 100%;
+	height: auto;
 	line-height: 40px.
 }
 
