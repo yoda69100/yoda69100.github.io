@@ -86,7 +86,7 @@ p {text-align: center;}
 .centre {text-align: center !important;}
 }
 
-@media all and (min-width: 600px) and (max-width: 1080px) {
+@media all and (min-width: 601px) and (max-width: 1080px) {
 html {
 background-color : #55525D;
 color : #F3F3F3;
