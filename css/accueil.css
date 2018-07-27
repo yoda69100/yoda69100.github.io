@@ -9,13 +9,13 @@
 }
 html {
 	min-width: 450px;
+	background : linear-gradient(to top, #5F4B8B 1%, #876FBE 100%);
 }
 body {
 		margin: auto;
 		height: 100%;
 		width: 100%;
-		background : linear-gradient(to top, #5F4B8B 1%, #876FBE 100%);
-}
+		
 h1 {
 	font-weight: bold;
 	font-size: 40px;
@@ -40,7 +40,7 @@ container-fluid {
 }
 img {
 	vertical-align: text-top;
-	box-shadow: 0px 0px 4px #9fe855;
+	box-shadow: 0px 0px 10px #9fe855;
 	width: 60px;
 	height: 60px;
 	border-radius: 30px;
