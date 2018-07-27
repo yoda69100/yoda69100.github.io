@@ -1,0 +1,423 @@
+@media screen and (max-width:480px) {
+	body {
+	width: 80%;
+	min-width: 300px;
+	max-width: 480px;
+	margin: 0 auto;
+	color: #7d7d7b;
+	background-color:#f0f0f0;
+	font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 1;
+	font-size: 100%;
+}
+.bigcont {
+	width: 100%;
+	background-color: #f0f0f0;
+}
+
+.white {
+	background-color: #f0f0f0 !important;
+}
+.nav {
+	color: #7d7d7b !important;
+}
+.nav-link {
+	color: #7d7d7b !important;
+}
+.navbar-dark .navbar-toggler {
+	color: #7d7d7b !important;
+}
+h1 {
+	font-size: 1em !important;
+	font-weight: bold;
+}
+
+.logomenu {
+	display: inline-block;
+	width: 100%;
+	height:100%;
+}
+a { color: #77a7b9;}
+a:hover {color: #8dc7dc;}
+a a:hover a:visited {text-decoration: none;}
+.bas {
+	margin: 20px 0px;
+	background-color:#f0f0f0;
+}
+.vignette{
+	flex: 0 0 100%;
+    max-width: 100%;
+	width: 100%;
+	height: 550px;
+	background-color: white;
+	border-radius: 5px;
+	border: none !important;
+	margin: 18px 18px 0px 0px;
+	padding: 0px;
+	box-shadow: 0px 0px 2px grey;
+}
+.photovignette{
+	width: 100%;
+	height: auto;
+	padding: 0px !important;
+	margin: 0px !important;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.legendevignette{
+	color: #7d7d7b;
+	font-size: 0.8em;
+	line-height: 1.6em;
+	padding: 10px;
+}
+
+.centree {
+	text-align: center;
+	justify-content: center;
+	margin:0px auto;
+	padding: 30px 10px;
+}
+.legendevignette2{
+	text-align: center;
+	justify-content: center;
+	width: 70%;
+	margin: 20px auto;
+}
+.fbk {
+	text-align: center;
+	color: #7d7d7b;
+}
+#custom-search-form {
+
+    margin-top: 5px;
+    padding: 0;
+    text-align: center;
+    align-self: center;
+}
+
+#custom-search-form .search-query {
+	width: 50%;
+    padding-right: 3px;
+    padding-right: 4px \9;
+    padding-left: 3px;
+    padding-left: 4px \9;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    margin-left:auto;
+    margin-right: auto;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+#custom-search-form button {
+    border: 0;
+    background: none;
+    /** belows styles are working good */
+    padding: 2px 5px;
+    margin-top: 2px;
+    position: relative;
+    left: 0px;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.search-query:focus + button {
+    z-index: 3;
+}
+#footer {
+	padding: 30px;
+	text-align: left;
+	font-size: 0.7em;
+}
+.BBlack {
+	color: black !important;
+
+}
+}
+/*fin smartphone////////////////////////////////////*/	
+@media screen and (max-width:967px) and (min-width: 480px){
+	body {
+	width: 80%;
+	min-width: 480px;
+	max-width: 967px;
+	margin: 0 auto;
+	color: #7d7d7b;
+	background-color:#f0f0f0;
+	font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 1;
+	font-size: 100%;
+}
+.bigcont {
+	width: 100%;
+	background-color: #f0f0f0;
+}
+
+.white {
+	background-color: #f0f0f0 !important;
+}
+.nav {
+	color: #7d7d7b !important;
+}
+.nav-link {
+	color: #7d7d7b !important;
+}
+.navbar-dark .navbar-toggler {
+	color: #7d7d7b !important;
+}
+h1 {
+	font-size: 1em !important;
+	font-weight: bold;
+}
+
+.logomenu {
+	display: inline-block;
+	width: 100%;
+	height:100%;
+}
+a { color: #77a7b9;}
+a:hover {color: #8dc7dc;}
+a a:hover a:visited {text-decoration: none;}
+.bas {
+	margin: 20px 0px;
+	background-color:#f0f0f0;
+}
+.vignette{
+	flex: 0 0 45%;
+    max-width: 50%;
+	width: 45%;
+	height: 550px;
+	background-color: white;
+	border-radius: 5px;
+	border: none !important;
+	margin: 18px 18px 0px 0px;
+	padding: 0px;
+	box-shadow: 1px 1px 2px grey;
+}
+.photovignette{
+	width: 100%;
+	height: auto;
+	padding: 0px !important;
+	margin: 0px !important;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.legendevignette{
+	color: #7d7d7b;
+	font-size: 0.8em;
+	line-height: 1.6em;
+	padding: 10px;
+}
+
+.centree {
+	text-align: center;
+	justify-content: center;
+	margin:0px auto;
+	padding: 30px 10px;
+}
+.legendevignette2{
+	text-align: center;
+	justify-content: center;
+	width: 70%;
+	margin: 20px auto;
+}
+.fbk {
+	text-align: center;
+	color: #7d7d7b;
+}
+#custom-search-form {
+
+    margin-top: 5px;
+    padding: 0;
+    text-align: center;
+    align-self: center;
+}
+
+#custom-search-form .search-query {
+	width: 50%;
+    padding-right: 3px;
+    padding-right: 4px \9;
+    padding-left: 3px;
+    padding-left: 4px \9;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    margin-left:auto;
+    margin-right: auto;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+#custom-search-form button {
+    border: 0;
+    background: none;
+    /** belows styles are working good */
+    padding: 2px 5px;
+    margin-top: 2px;
+    position: relative;
+    left: 0px;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.search-query:focus + button {
+    z-index: 3;
+}
+#footer {
+	padding: 30px;
+	text-align: left;
+	font-size: 0.7em;
+}
+.BBlack {
+	color: black !important;
+
+}
+}
+/*FIN FORMAT TABLETTE///////////////////////////////////////////*/
+@media screen and (min-width: 968px) {
+	body {
+	width: 80%;
+	min-width: 968px;
+	max-width: 1000px;
+	margin: 0 auto;
+	color: #7d7d7b;
+	background-color:#f0f0f0;
+	font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 1;
+	font-size: 100%;
+}
+.bigcont {
+	width: 100%;
+	background-color: #f0f0f0;
+}
+
+.white {
+	background-color: #f0f0f0 !important;
+}
+.nav {
+	color: #7d7d7b !important;
+}
+.nav-link {
+	color: #7d7d7b !important;
+}
+.navbar-dark .navbar-toggler {
+	color: #7d7d7b !important;
+}
+h1 {
+	font-size: 1em !important;
+	font-weight: bold;
+}
+
+.logomenu {
+	display: inline-block;
+	width: 100%;
+	height:100%;
+}
+a { color: #77a7b9;}
+a:hover {color: #8dc7dc;}
+a a:hover a:visited {text-decoration: none;}
+.bas {
+	margin: 20px 0px;
+	background-color:#f0f0f0;
+}
+.vignette{
+	flex: 0 0 30%;
+    max-width: 30%;
+	width: 30%;
+	height: 550px;
+	background-color: white;
+	border-radius: 5px;
+	border: none !important;
+	margin: 18px 18px 0px 0px;
+	padding: 0px;
+	box-shadow: 1px 1px 2px grey;
+}
+.photovignette{
+	width: 100%;
+	height: auto;
+	padding: 0px !important;
+	margin: 0px !important;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.legendevignette{
+	color: #7d7d7b;
+	font-size: 0.8em;
+	line-height: 1.6em;
+	padding: 10px;
+}
+
+.centree {
+	text-align: center;
+	justify-content: center;
+	margin:0px auto;
+	padding: 30px 10px;
+}
+.legendevignette2{
+	text-align: center;
+	justify-content: center;
+	width: 70%;
+	margin: 20px auto;
+}
+.fbk {
+	text-align: center;
+	color: #7d7d7b;
+}
+#custom-search-form {
+
+    margin-top: 5px;
+    padding: 0;
+    text-align: center;
+    align-self: center;
+}
+
+#custom-search-form .search-query {
+	width: 50%;
+    padding-right: 3px;
+    padding-right: 4px \9;
+    padding-left: 3px;
+    padding-left: 4px \9;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    margin-left:auto;
+    margin-right: auto;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+#custom-search-form button {
+    border: 0;
+    background: none;
+    /** belows styles are working good */
+    padding: 2px 5px;
+    margin-top: 2px;
+    position: relative;
+    left: 0px;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.search-query:focus + button {
+    z-index: 3;
+}
+#footer {
+	padding: 30px;
+	text-align: left;
+	font-size: 0.7em;
+}
+.BBlack {
+	color: black !important;
+
+}
+}
+
