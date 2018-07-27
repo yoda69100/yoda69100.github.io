@@ -9,19 +9,17 @@
 	font-family : 'Comfortaa', Sans-Serif; 
 }
 html {
-	width: 100%;
-	height: 100%;
+	height: auto;
+	background : linear-gradient(to bottom, #876FBE 1%, #5F4B8B 100%);		
 }
 body {
-		margin: auto;
-		height: 100%;
-		width: 100%;
-		max-width: 480px;
-		background-color:#5F4B8B; 
-		color: ivory;
-		font-family: 'Comfortaa' Sans-Serif !important;
-		font-size: 16px;
-		line-height: 50px;
+	margin: auto;
+	height: 100%;
+	width: 100%;
+	color: ivory;
+	font-family: 'Comfortaa' Sans-Serif !important;
+	font-size: 16px;
+	line-height: 50px;
 }
 h1{	font-weight: bold;
 	font-size: 20px;
@@ -30,6 +28,7 @@ h1{	font-weight: bold;
 	text-align: center;
 }
 .milieu {
+	background : #5F4B8B;
 	margin: auto;
 	padding: 15%;
 	box-shadow: 2px 2px 4px #9fe855;
@@ -60,12 +59,17 @@ img{
 	font-size : 20px;
 	font-family : 'Comfortaa', Sans-Serif; 
 }
+html {
+	height: auto;
+	min-height: 100%;
+}
+
 body {
-		margin: auto;
-		height: 100%;
-		width: 100%;
-		background-color:#5F4B8B; 
-		
+	margin: auto;
+	height: 100%;
+	width: 100%;
+	background : linear-gradient(to bottom, #876FBE 1%, #5F4B8B 100%);	
+
 }
 h1 {
 	font-weight: bold;
@@ -79,6 +83,7 @@ h1 {
 	vertical-align: top;
 	text-align: left;
 	width: 50%;
+	max-width: 500px;
 	border-radius: 5px;
 	margin: auto;
 	padding: 15%;
