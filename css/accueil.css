@@ -26,7 +26,8 @@ body {
 h1{	font-weight: bold;
 	font-size: 20px;
 	color: #9fe855; 
-	line-height: 40px;
+	line-height: 30px;
+	text-align: center;
 }
 .milieu {
 	margin: auto;
@@ -75,19 +76,13 @@ h1 {
 
 .milieu{
 	background : #5F4B8B;
-	padding: 15px;
-	box-shadow: 3px 3px 10px #9fe855;
 	vertical-align: top;
-	line-height: 30px;
 	text-align: left;
 	width: 50%;
-	height: 50%;
-	margin: 5% auto;
 	border-radius: 5px;
-	/*bbbbbbbbbbbbbbbbbbbbbbbbbbbbb*/
 	margin: auto;
 	padding: 15%;
-	box-shadow: 2px 2px 4px #9fe855;
+	box-shadow: 3px 3px 10px #9fe855;
 	height: auto;
 	line-height: 40px.
 }
