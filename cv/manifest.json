@@ -1,0 +1,35 @@
+{
+  "app": {
+    "background": [
+      "#5F4B8B"
+    ]
+  },
+  "start_url": "/?utm_source=a2hs",
+  "background_color": "#5F4B8B",
+  "manifest_version": 1,
+  "name": "CV Gerald Leduc",
+  "short_name": "CV",
+  "display": "fullscreen",
+  "theme_color": "#5F4B8B",
+  "version": "versionString",
+  "default_locale": "fr",
+  "description": "Retrouvez mon CV en ligne",
+  "icons": [{
+    "src": "img/ava48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "img/ava128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "img/ava192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "img/ava512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "author": "Gerald Leduc"
+}
