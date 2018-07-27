@@ -9,12 +9,13 @@
 }
 html {
 	min-width: 450px;
+	background : linear-gradient(to top, #5F4B8B 1%, #876FBE 100%);
 }
 body {
 		margin: auto;
 		height: 100%;
 		width: 100%;
-		background : linear-gradient(to top, #5F4B8B 1%, #876FBE 100%);
+		
 }
 h1 {
 	font-weight: bold;
@@ -40,12 +41,12 @@ container-fluid {
 }
 img {
 	vertical-align: text-top;
-	box-shadow: 3px 3px 10px #9fe855;
-	width: 60px;
-	height: 60px;
-	border-radius: 30px;
-	margin:  0px 35px 35px 0px;
-	float: left;
-	display: inline-block;
+	 width: 60px;
+	 height: 60px;
+	 border-radius: 30px;
+	 margin:  0px 35px 35px 0px;
+	 box-shadow: 3px 3px 10px #9fe855;
+	 float: left;
+	 display: inline-block;
 }
 p {line-height: 60px; display: inline-block; width: 100%;}
