@@ -99,14 +99,14 @@ footer {
 	width: 250px;
 	height: 200px;
 	border: solid 4px #676767;
-	margin: auto;
+	margin: auto 50px auto auto;
 }
 
 #photoflex02 {
 	width: 250px;
 	height: 200px;
 	border: solid 4px #676767;
-	margin: auto;
+	margin: auto auto auto 50px;
 }
 
 img{
