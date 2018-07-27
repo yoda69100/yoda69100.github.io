@@ -5,7 +5,7 @@
 	padding: 0;
 	text-decoration: none; 
 	color : #F3F3F3;
-	font-size : 20px;
+	font-size : 18px;
 	font-family : 'Comfortaa', Sans-Serif; 
 }
 html {
@@ -31,8 +31,9 @@ h1{	font-weight: bold;
 .milieu {
 	margin: auto;
 	padding: 15%;
-	box-shadow: 2px 2px 4px black;
+	box-shadow: 2px 2px 4px #9fe855;
 	height: auto;
+	width: 60%;
 	line-height: 40px.
 }
 
@@ -42,7 +43,7 @@ img{
 	height: 30px;
 	margin:  0px 30px 30px 0px;
 	border: 3px inset #9fe855;
-	border-radius: 15px;
+	border-radius: 30px;
 	float: left;
 	display: inline-block;
 }
@@ -83,6 +84,12 @@ h1 {
 	height: 50%;
 	margin: 5% auto;
 	border-radius: 5px;
+	/*bbbbbbbbbbbbbbbbbbbbbbbbbbbbb*/
+	margin: auto;
+	padding: 15%;
+	box-shadow: 2px 2px 4px #9fe855;
+	height: auto;
+	line-height: 40px.
 }
 img {
 	vertical-align: text-top;
