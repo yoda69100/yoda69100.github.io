@@ -73,7 +73,7 @@ border: solid 2px #F3F3F3;
 .stage {font-size: 16px; font-style: oblique;}
 hr {border: solid 1px #f3f3f3; width: 85%;}
 .barre {display: none;}
-.grotitre { color: #AFA8BE; font-weight: bold; font-size: 24px; line-height: 30px;}
+.grotitre { color: #FFF497; font-weight: bold; font-size: 24px; line-height: 30px;}
 .mail { text-decoration: none; color: white;}
 .compet { color: #F3F3F3; }
 .LOGICIELS {color: #F3F3F3;}
@@ -324,7 +324,6 @@ padding : 0;
 width : 100%;
 height : auto;
 line-height: 30px;
-background-color: #5F4B8B";
 }
 
 #wrap {
