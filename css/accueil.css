@@ -45,7 +45,7 @@ img {
 	 height: 60px;
 	 border-radius: 30px;
 	 margin:  0px 35px 35px 0px;
-	 box-shadow: 3px 3px 10px #9fe855;
+	 border: 3px inset #9fe855;
 	 float: left;
 	 display: inline-block;
 }
