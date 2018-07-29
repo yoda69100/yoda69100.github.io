@@ -176,7 +176,7 @@ transition : color 2s;
 transition-timing-function : ease-in-out;
 }
 a:hover {
-color : ##5F4B8B;
+color : #5F4B8B;
 text-shadow : 0 2px 4px white;
 }
 .lk {
@@ -190,7 +190,7 @@ transition-timing-function : ease-in-out;
 .lk:hover {
 width : 34px;
 height : auto;
-border : ##5F4B8B solid 3px;
+border : #5F4B8B solid 3px;
 border-radius : 8px;
 }
 #qualites {
