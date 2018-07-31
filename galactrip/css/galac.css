@@ -1,0 +1,74 @@
+html {
+	background-color: #000000;
+	background-image: url("../img/stars.jpg");
+	background-repeat: repeat;
+	background-attachment: fixed;
+	min-width: 320px;
+}
+body {
+	background-color: rgba(0,0,0,0.7);
+	color: #ffffff !important;
+	width: 80%;
+	min-width: 80%;
+	margin: auto;
+}
+
+header.masthead {
+	background-image: url("../img/earth.jpg");
+	background-size: contain;
+	padding-top: calc(7rem + 100px);
+}
+.btn-primary {
+    background-color:  rgba(190,190,190,0.1);
+	border-color: #555363;
+}
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+    background-color:  rgba(190,190,190,0.4) !important;
+    border-color: #ffffff;
+
+}
+
+.logo500 {
+	width: 66%;
+	height: auto;
+}
+.sec0 {
+	background-color: rgba(10,10,10,0.4);
+	color: #3BB3FC;
+}
+
+.sec1 {
+	background-color: rgba(50,50,50,0.4);
+	color: #6BBBBC;
+	border: none;
+}
+.sec2 {
+	background-color: rgba(100,100,100,0.4);
+	border: none;
+	color: #C6AFA9;
+}
+.contact{
+	background-color: rgba(190,190,190,0.4);
+	border: none;
+	color: #CBE1E7;
+}
+@media all and (max-width: 991px){
+	header.masthead {
+	background-image: url("../img/earth.jpg");
+	background-size: contain;
+	padding-top: calc(5rem + 20px);
+}
+.btn-primary {
+    background-color:  rgba(190,190,190,0.1);
+    border-color: #555363;
+
+}
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+    background-color:  rgba(190,190,190,0.4) !important;
+    border-color: #ffffff;
+
+}
+.btn-xl {
+	padding: 2% 4%;
+}
+}
