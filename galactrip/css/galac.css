@@ -13,7 +13,7 @@ body {
 }
 nav {width: 66%; margin: auto;}
 header.masthead {
-	background-image: url("../img/earth.jpg");
+	background-image: url("../img/earth1080.jpg");
 	background-size: contain;
 	padding-top: calc(7rem + 100px);
 }
@@ -64,7 +64,7 @@ nav {width: 90%; margin: auto;}
 
 
 header.masthead {
-	background-image: url("../img/earth.jpg");
+	background-image: url("../img/earth320.jpg");
 	background-size: contain;
 	padding-top: calc(5rem + 20px);
 }
