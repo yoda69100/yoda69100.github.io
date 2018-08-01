@@ -1,3 +1,5 @@
+@media all and (min-width: 991.1px){
+
 html {
 	background-color: #000000;
 	background-image: url("../img/stars.jpg");
@@ -9,29 +11,15 @@ body {
 	background-color: rgba(0,0,0,0.7);
 	color: #ffffff !important;
 	width: 66%;
-	max-width: 1080px;
+	width: 1080px;
 	margin: auto;
     scroll-behavior: smooth;
 }
-nav {width: 66%; max-width: 1080px; margin: auto;}
+nav {max-width: 1080px; margin: auto;}
 header.masthead {
 	background-image: url("../img/earth1080.jpg");
-	background-size: contain;
 	padding-top: calc(7rem + 100px);
-}
-.btn-primary {
-    background-color:  rgba(190,190,190,0.1);
-	border-color: #555363;
-}
-.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
-    background-color:  rgba(190,190,190,0.4) !important;
-    border-color: #ffffff;
-
-}
-
-.logo500 {
-	width: 66%;
-	height: auto;
+	width: 1080px;
 }
 #sec0 {
 	background-color: rgba(10,10,10,0.4);
@@ -53,8 +41,18 @@ header.masthead {
 	border: none;
 	color: #CBE1E7;
 }
-@media all and (max-width: 991px){
+}
 
+
+
+@media all and (max-width: 991px){
+html {
+	background-color: #000000;
+	background-image: url("../img/stars.jpg");
+	background-repeat: repeat;
+	background-attachment: fixed;
+	min-width: 320px;
+}
 body {
 	background-color: rgba(0,0,0,0.7);
 	color: #ffffff !important;
@@ -63,26 +61,35 @@ body {
 	margin: auto;
     scroll-behavior: smooth;
 }
-nav {width: 90%; margin: auto;}
-
-
-
+nav { 
+	width: 90%;
+	min-width: 300px;
+	margin: auto;
+}
 header.masthead {
 	background-image: url("../img/earth1080.jpg");
-	background-size: contain;
-	padding-top: calc(7rem + 80px);
+	padding-top: calc(7rem + 100px);
+	width: auto;
 }
-.btn-primary {
-    background-color:  rgba(190,190,190,0.1);
-    border-color: #555363;
 
+#sec0 {
+	background-color: rgba(10,10,10,0.4);
+	color: #3BB3FC;
 }
-.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
-    background-color:  rgba(190,190,190,0.4) !important;
-    border-color: #ffffff;
 
+#sec1 {
+	background-color: rgba(50,50,50,0.4);
+	color: #6BBBBC;
+	border: none;
 }
-.btn-xl {
-	padding: 2% 4%;
+#sec2 {
+	background-color: rgba(100,100,100,0.4);
+	border: none;
+	color: #C6AFA9;
+}
+#contact{
+	background-color: rgba(190,190,190,0.4);
+	border: none;
+	color: #CBE1E7;
 }
 }
