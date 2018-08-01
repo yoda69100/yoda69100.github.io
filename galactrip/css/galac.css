@@ -40,6 +40,7 @@ header.masthead {
 }
 section {
 	padding-top: 100px;
+	padding-bottom: 100px;
 }
 }
 
@@ -70,6 +71,7 @@ header.masthead {
 }
 section {
 	padding-top: 100px;
+	padding-bottom: 100px;
 }
 #sec0 {
 	background-color: rgba(10,10,10,0.4);
