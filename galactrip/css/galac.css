@@ -29,17 +29,17 @@ header.masthead {
 #sec1 {
 	background-color: rgba(50,50,50,0.4);
 	color: #6BBBBC;
-	border: none;
 }
 #sec2 {
 	background-color: rgba(100,100,100,0.4);
-	border: none;
 	color: #C6AFA9;
 }
 #contact{
 	background-color: rgba(190,190,190,0.4);
-	border: none;
 	color: #CBE1E7;
+}
+section {
+	padding-top: 100px;
 }
 }
 
@@ -67,9 +67,10 @@ nav {
 header.masthead {
 	background-image: url("../img/earth1080.jpg");
 	padding-top: calc(10rem + 100px);
-	width: auto;
 }
-
+section {
+	padding-top: 100px;
+}
 #sec0 {
 	background-color: rgba(10,10,10,0.4);
 	color: #3BB3FC;
@@ -78,16 +79,13 @@ header.masthead {
 #sec1 {
 	background-color: rgba(50,50,50,0.4);
 	color: #6BBBBC;
-	border: none;
 }
 #sec2 {
 	background-color: rgba(100,100,100,0.4);
-	border: none;
 	color: #C6AFA9;
 }
 #contact{
 	background-color: rgba(190,190,190,0.4);
-	border: none;
 	color: #CBE1E7;
 }
 }
