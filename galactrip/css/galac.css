@@ -9,11 +9,12 @@ body {
 	background-color: rgba(0,0,0,0.7);
 	color: #ffffff !important;
 	width: 66%;
+	max-width: 1080px;
 	margin: auto;
 }
-nav {width: 66%; margin: auto;}
+nav {width: 66%; max-width: 1080px; margin: auto;}
 header.masthead {
-	background-image: url("../img/earth1080.jpg");
+	background-image: url("../img/earth.jpg");
 	background-size: contain;
 	padding-top: calc(7rem + 100px);
 }
@@ -57,6 +58,7 @@ body {
 	background-color: rgba(0,0,0,0.7);
 	color: #ffffff !important;
 	width: 90%;
+	min-width: 300px;
 	margin: auto;
 }
 nav {width: 90%; margin: auto;}
@@ -64,9 +66,9 @@ nav {width: 90%; margin: auto;}
 
 
 header.masthead {
-	background-image: url("../img/earth320.jpg");
+	background-image: url("../img/earth.jpg");
 	background-size: contain;
-	padding-top: calc(5rem + 20px);
+	padding-top: calc(5rem + 80px);
 }
 .btn-primary {
     background-color:  rgba(190,190,190,0.1);
