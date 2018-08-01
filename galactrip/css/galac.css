@@ -11,6 +11,7 @@ body {
 	width: 66%;
 	max-width: 1080px;
 	margin: auto;
+    scroll-behavior: smooth;
 }
 nav {width: 66%; max-width: 1080px; margin: auto;}
 header.masthead {
@@ -32,22 +33,22 @@ header.masthead {
 	width: 66%;
 	height: auto;
 }
-.sec0 {
+#sec0 {
 	background-color: rgba(10,10,10,0.4);
 	color: #3BB3FC;
 }
 
-.sec1 {
+#sec1 {
 	background-color: rgba(50,50,50,0.4);
 	color: #6BBBBC;
 	border: none;
 }
-.sec2 {
+#sec2 {
 	background-color: rgba(100,100,100,0.4);
 	border: none;
 	color: #C6AFA9;
 }
-.contact{
+#contact{
 	background-color: rgba(190,190,190,0.4);
 	border: none;
 	color: #CBE1E7;
@@ -60,6 +61,7 @@ body {
 	width: 90%;
 	min-width: 300px;
 	margin: auto;
+    scroll-behavior: smooth;
 }
 nav {width: 90%; margin: auto;}
 
