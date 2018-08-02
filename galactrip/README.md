@@ -1,1 +1,1 @@
-#yoda69100.github.io/galactrip/
+yoda69100.github.io/galactrip/
