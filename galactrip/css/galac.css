@@ -18,6 +18,7 @@ body {
 nav {max-width: 1080px; margin: auto;}
 header.masthead {
 	background-image: url("../img/earth1080.jpg");
+	background-size: cover;
 	padding-top: calc(17rem + 100px);
 	width: 1080px;
 }
@@ -41,6 +42,28 @@ header.masthead {
 section {
 	padding-top: 100px;
 	padding-bottom: 100px;
+}
+.card {
+	border:none;
+	border-radius: 0px;
+	background-color: rgba(143,8,0,0.2) !important;
+	color: rgba(143,108,125,1) !important;
+
+}
+.card-header {
+	background-color: rgba(143,8,25,0.2) !important;
+	border:none;
+	border-radius: 0px;
+}
+.card-body {
+	background-image: url("../img/0003.jpg");
+	background-size: cover;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:focus,.btn-outline-primary,.btn-outline-primary:hover,.btn-outline-primary:focus, {
+	background-color: rgba(143,8,25,0.5) !important;
+	border: none;
+	color: ivory;
+
 }
 }
 
