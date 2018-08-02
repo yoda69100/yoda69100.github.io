@@ -28,7 +28,7 @@ section {
 }
 #sec0 {
 	background : linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,1));
-	color: #3BB3FC;
+	color: #37AECB;
 }
 
 #sec1 {
@@ -117,12 +117,12 @@ header.masthead {
 }
 #sec0 {
 	background : linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,1));
-	color: #3BB3FC;
+	color: #37AECB;
 }
 
 #sec1 {
 	background-color: rgba(50,50,50,0.4);
-	color: #6BBBBC;
+	color: #37AECB;
 }
 #sec2 {
 	background-color: rgba(100,100,100,0.4);
@@ -176,7 +176,7 @@ footer {
 	background-color: transparent !important;
 	padding: 2%;
 	margin: 0 auto !important;
-	color: white !important;
+ 	color: #37AECB !important;
 }
 .text-muted {
 	color: white !important;
