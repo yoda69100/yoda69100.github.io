@@ -60,15 +60,15 @@ section {
 	color: white !important;
 }
 .multi{
-	background-image: url("./img/worm.jpg");
+	background-image: url("../img/worm.jpg");
 	background-size: cover;
 }
 .jup{
-	background-image: url("./img/jup.jpg");
+	background-image: url("../img/jup.jpg");
 	background-size: cover;
 }
 .orion{
-	background-image: url("./img/orion600.jpg");
+	background-image: url("../img/orion600.jpg");
 	background-size: cover;
 }
 .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:focus {
@@ -152,15 +152,15 @@ section {
 	color: white !important;
 }
 .multi{
-	background-image: url("./img/worm.jpg");
+	background-image: url("../img/worm.jpg");
 	background-size: cover;
 }
 .jup{
-	background-image: url("./img/jup.jpg");
+	background-image: url("../img/jup.jpg");
 	background-size: cover;
 }
 .orion{
-	background-image: url("./img/orion600.jpg");
+	background-image: url("../img/orion600.jpg");
 	background-size: cover;
 }
 .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:focus {
