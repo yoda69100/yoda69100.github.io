@@ -108,9 +108,10 @@ footer {
 }
 html {
 	background-color: #000000;
-	background-image: url("../img/stars.jpg");
-	background-repeat: repeat;
+	background-image: url("../img/bckgdbig.jpg");
+	background-repeat: no-repeat;
 	background-attachment: fixed;
+	background-size: cover;
 	min-width: 320px;
 }
 body {
