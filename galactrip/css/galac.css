@@ -85,6 +85,9 @@ footer {
 	margin: 0 auto !important;
 	color: #37AECB !important;
 }
+.mb-md-5, .my-md-5{
+	margin: 0 auto !important;
+}
 .text-muted {
 	color: white !important;
 }
@@ -169,17 +172,19 @@ section {
 	color: ivory;
 
 }
-footer {
+footer  {
 	background-image: url("../img/footermoon.png")!important;
 	background-size: cover;
 	background-position: top;
 	background-color: transparent !important;
-	padding: 2%;
+	padding: 10%;
 	margin: 0 auto !important;
- 	color: #37AECB !important;
+	color: #37AECB !important;
+}
+.mb-md-5, .my-md-5{
+	margin: 0 auto !important;
 }
 .text-muted {
 	color: white !important;
 }
-
 }
