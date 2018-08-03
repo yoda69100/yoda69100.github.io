@@ -1,4 +1,10 @@
 @media all and (max-width: 991px){
+* {
+    -moz-transition: width 1.5s ease-in-out;
+    -webkit-transition: width 1.5s ease-in-out;
+    -o-transition: width 1.5s ease-in-out;
+    transition: width 1.5s ease-in-out;
+}
 html {
 	background-color: #000000;
 	background-image: url("../img/stars.jpg");
@@ -18,9 +24,8 @@ nav {
 	min-width: 300px;
 	margin: auto;
 }
-header.masthead {
-	background-image: url("../img/earth1080.jpg");
-	padding-top: calc(10rem + 100px);
+#carouselExampleFade {
+	margin-top: 91px;
 }
 section {
 	padding-top: 100px;
@@ -95,7 +100,12 @@ footer {
 
 
 @media all and (min-width: 991.1px){
-
+* {
+    -moz-transition: width 1.5s ease-in-out;
+    -webkit-transition: width 1.5s ease-in-out;
+    -o-transition: width 1.5s ease-in-out;
+    transition: width 1.5s ease-in-out;
+}
 html {
 	background-color: #000000;
 	background-image: url("../img/stars.jpg");
@@ -112,10 +122,8 @@ body {
     scroll-behavior: smooth;
 }
 nav {max-width: 1080px; margin: auto;}
-header.masthead {
-	background-image: url("../img/earth1080.jpg");
-	background-size: cover;
-	padding-top: calc(17rem + 100px);
+#carouselExampleFade {
+	margin-top: 91px;
 	width: 1080px;
 }
 #sec0 {
