@@ -131,7 +131,6 @@ overflow : hidden;
 align-content : center;
 max-width : 70%; 
 border-radius : 300px;
-border : white inset 4px;
 box-shadow : 0 0 16px black;
 }
 #nom {
@@ -350,7 +349,6 @@ overflow : hidden;
 align-content : center;
 max-width : 70%; 
 border-radius : 300px;
-border : white inset 4px;
 box-shadow : 0 0 16px black;
 }
 #nom {
