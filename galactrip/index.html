@@ -10,9 +10,15 @@
     <meta name="theme-color" content="#000000">
     <link rel="shortcut icon" href="img/galac.ico">
     <title>Galactrip</title>
+
+    <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
     <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
     <link href="css/one-page-wonder.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/galac.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -109,7 +115,7 @@
           </div>
           <div class="col-lg-6 order-lg-1">
             <div class="p-5">
-              <h2 class="display-4">For those about to fly...</h2>
+              <h2 class="display-4">I believe I can fly...</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
             </div>
           </div>
@@ -182,12 +188,12 @@
         <div class="row align-items-center">
           <div class="col-lg-6 order-lg-2">
             <div class="p-5">
-              <img class="img-fluid rounded-circle" src="img/0001.jpg" title="© Ben Mauro" alt="alien supermarket">
+              <img class="img-fluid rounded-circle" src="img/0001.jpg" alt="">
             </div>
           </div>
           <div class="col-lg-6 order-lg-1">
             <div class="p-5">
-              <h2 class="display-4">Let there be rock!</h2>
+              <h2 class="display-4">Let's go shopping!</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
             </div>
           </div>
@@ -204,8 +210,43 @@
           </div>
           <div class="col-lg-6">
             <div class="p-5">
-              <h2 class="display-4">Find Us!</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
+            <!-- Default form contact -->
+            <form class="text-center border border-light p-5">
+
+                <p class="h4 mb-4">Contact us</p>
+
+                <!-- Name -->
+                <input type="text" id="defaultContactFormName" class="form-control mb-4" placeholder="Name">
+
+                <!-- Email -->
+                <input type="email" id="defaultContactFormEmail" class="form-control mb-4" placeholder="E-mail">
+
+                <!-- Subject -->
+                <label>Subject</label>
+                <select class="browser-default custom-select mb-4">
+                    <option value="" disabled>Choose option</option>
+                    <option value="1" selected>Feedback</option>
+                    <option value="2">Report a bug</option>
+                    <option value="3">Feature request</option>
+                    <option value="4">Feature request</option>
+                </select>
+
+                <!-- Message -->
+                <div class="form-group">
+                    <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="Message"></textarea>
+                </div>
+
+                <!-- Copy -->
+                <div class="custom-control custom-checkbox mb-4">
+                    <input type="checkbox" class="custom-control-input" id="defaultContactFormCopy">
+                    <label class="custom-control-label" for="defaultContactFormCopy">Send me a copy of this message</label>
+                </div>
+
+                <!-- Send button -->
+                <button class="btn btn-info btn-block" type="submit">Send</button>
+
+            </form>
+            <!-- Default form contact -->  
             </div>
           </div>
         </div>
@@ -215,7 +256,7 @@
     <footer class="pt-4 my-md-5 pt-md-5 border-top">
         <div class="row">
           <div class="col-12 col-md">
-            <img class="mb-2" src="img/galac.ico" alt="" width="24" height="24">
+            <img class="mb-2" src="img/logo150.png" alt="" width="80" height="20">
             <small class="d-block mb-3 text-muted">© 2048</small>
           </div>
           <div class="col-6 col-md">
@@ -249,6 +290,9 @@
           </div>
         </div>
       </footer>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     
     <script src="https://cdn.jsdelivr.net/npm/holderjs@2.9.4/holder.js"></script>
@@ -259,6 +303,7 @@
         text: 'Thumbnail'
       });
     </script>
+    <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
