@@ -94,10 +94,12 @@ transition : color 2s;
 transition-timing-function : ease-in-out;
 }
 .lk:hover {
-width : 25px;
+width : 24px;
 height : auto;
 border : #5F4B8B solid 3px;
 border-radius : 6px;
+margin-top : 20px;
+margin-bottom : 20px;
 }
 .compet { color: #F3F3F3; }
 .LOGICIELS {color: #F3F3F3;}
