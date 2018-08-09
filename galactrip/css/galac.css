@@ -78,6 +78,9 @@ section {
 	color: ivory;
 
 }
+.btn-info{
+	background-colour:rgba(30,0,44,0.5) !important;
+	}
 footer {
 	background-image: url("../img/footermoon.png")!important;
 	background-size: cover;
@@ -178,6 +181,9 @@ section {
 	color: ivory;
 
 }
+.btn-info{
+	background-colour:rgba(30,0,44,0.5) !important;
+	}
 footer  {
 	background-image: url("../img/footermoon.png")!important;
 	background-size: cover;
