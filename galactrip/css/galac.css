@@ -84,6 +84,11 @@ section {
 	background-image: url("../img/orion600.jpg");
 	background-size: cover;
 }
+form {
+	border-radius: 6px;
+	box-shadow: 2px 2px 4px White;
+}
+	
 .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:focus {
 	background-color: rgba(30,0,44,0.5) !important;
 	border: rgba(30,0,44,0.8) !important;
@@ -193,6 +198,10 @@ section {
 .orion{
 	background-image: url("../img/orion600.jpg");
 	background-size: cover;
+}
+form {
+	border-radius: 6px;
+	box-shadow: 2px 2px 4px White;
 }
 .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:focus {
 	background-color: rgba(30,0,44,0.5) !important;
