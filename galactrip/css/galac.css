@@ -105,6 +105,7 @@ footer {
 }
 h5 {
 	color: #BA18A6;
+	font-family: 'klingon';
 }
 }
 @media all and (min-width: 991.1px){
@@ -213,5 +214,6 @@ footer  {
 }
 h5 {
 	color: #BA18A6;
+	font-family: 'klingon';
 }
 }
