@@ -1,8 +1,11 @@
 @font-face {
-	font-family: "klingon";
-	src: url('../fonts/klingon font.ttf');
-}
+    font-family: 'klingon';
+    src: url('../klingon_font-webfont.woff2') format('woff2'),
+         url('../klingon_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
+}
 @media all and (max-width: 991px){
 * {
     -moz-transition: width 1.5s ease-in-out;
