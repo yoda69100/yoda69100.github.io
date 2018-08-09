@@ -29,7 +29,6 @@ body {
 	min-width: 300px;
 	margin: auto;
     	scroll-behavior: smooth;
-	font-family: Lato;
 }
 p {
 	color: white;
@@ -89,7 +88,7 @@ section {
 }
 form {
 	border-radius: 6px;
-	box-shadow: 0px 0px 30px #a4bfcade;
+	box-shadow: 0px 0px 30px Gainsboro;
 }
 	
 .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:focus {
@@ -145,11 +144,10 @@ body {
 	width: 1080px;
 	margin: auto;
 	scroll-behavior: smooth;
-	font-family: Lato;
 }
 p {
 	color: white;
-	}
+}
 
 nav {max-width: 1080px; margin: auto;}
 #carouselExampleFade {
@@ -206,7 +204,7 @@ section {
 }
 form {
 	border-radius: 6px;
-	box-shadow: 0px 0px 30px #a4bfcade;
+	box-shadow: 0px 0px 30px Gainsboro;
 }
 .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:focus {
 	background-color: rgba(30,0,44,0.5) !important;
