@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "klingon";
-	src: url("../fonts/Klingon.ttf");
+	src: url('../fonts/klingon font.ttf');
 }
 
 @media all and (max-width: 991px){
