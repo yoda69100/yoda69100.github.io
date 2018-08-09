@@ -78,8 +78,8 @@ section {
 	background-size: cover;
 }
 .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:focus {
-	background-color: rgba(30,0,44,0.8) !important;
-	border: none;
+	background-color: rgba(30,0,44,0.5) !important;
+	border: rgba(30,0,44,0.8) !important;
 	color: ivory;
 
 }
@@ -101,7 +101,7 @@ footer {
 	color: white !important;
 }
 .klingon {
-	font-family: 'klingon' monospace sans-serif;
+	font-family: 'klingon';
 }
 }
 
@@ -183,8 +183,8 @@ section {
 	background-size: cover;
 }
 .btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:focus {
-	background-color: rgba(30,0,44,0.8) !important;
-	border: none;
+	background-color: rgba(30,0,44,0.5) !important;
+	border: rgba(30,0,44,0.8) !important;
 	color: ivory;
 
 }
@@ -207,6 +207,6 @@ footer  {
 	color: white !important;
 }
 .klingon {
-	font-family: 'klingon' monospace sans-serif;
+	font-family: 'klingon';
 }
 }
