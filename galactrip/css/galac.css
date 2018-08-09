@@ -29,8 +29,11 @@ body {
 	min-width: 300px;
 	margin: auto;
     	scroll-behavior: smooth;
+	font-family: Lato;
 }
-p{color: white;}
+p {
+	color: white;
+	}
 nav { 
 	min-width: 300px;
 	margin: auto;
@@ -142,8 +145,11 @@ body {
 	width: 1080px;
 	margin: auto;
 	scroll-behavior: smooth;
+	font-family: Lato;
 }
-p{color: white;}
+p {
+	color: white;
+	}
 
 nav {max-width: 1080px; margin: auto;}
 #carouselExampleFade {
@@ -173,7 +179,6 @@ section {
 	padding-bottom: 100px;
 	margin: 0;
 	text-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.8) !important;
-
 }
 .card {
 	border:none;
