@@ -28,7 +28,7 @@ body {
 	text-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.8) !important;
 	min-width: 300px;
 	margin: auto;
-    scroll-behavior: smooth;
+    	scroll-behavior: smooth;
 }
 p{color: white;}
 nav { 
@@ -42,7 +42,7 @@ section {
 	padding-top: 100px;
 	padding-bottom: 100px;
 }
-.rounded-circle {box-shadow: 4px 4px 4px black;}
+.rounded-circle {box-shadow: 0px 0px 6px black;}
 #sec0 {
 	background : linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,1));
 	color: #37AECB;
@@ -141,7 +141,7 @@ body {
 	text-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.8) !important;
 	width: 1080px;
 	margin: auto;
-    scroll-behavior: smooth;
+	scroll-behavior: smooth;
 }
 p{color: white;}
 
@@ -150,7 +150,7 @@ nav {max-width: 1080px; margin: auto;}
 	margin-top: 80px;
 	width: 1080px;
 }
-.rounded-circle {box-shadow: 4px 4px 4px black;}
+.rounded-circle {box-shadow: 0px 0px 6px black;}
 #sec0 {
 	background : linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,1));
 	color: #37AECB;
