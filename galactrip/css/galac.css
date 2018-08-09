@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'klingon';
-    src: url('../klingon_font-webfont.woff2') format('woff2'),
-         url('../klingon_font-webfont.woff') format('woff');
+    font-family: 'klingon_fontregular';
+    src: url('klingon_font-webfont.woff2') format('woff2'),
+         url('klingon_font-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -104,11 +104,11 @@ footer {
 	color: white !important;
 }
 .klingon {
-	font-family: 'klingon';
+	font-family: 'klingon_fontregular';
 }
 h5 {
 	color: #BA18A6;
-	font-family: 'klingon';
+	font-family: 'klingon_fontregular';
 }
 }
 @media all and (min-width: 991.1px){
@@ -213,10 +213,10 @@ footer  {
 	color: white !important;
 }
 .klingon {
-	font-family: 'klingon';
+	font-family: 'klingon_fontregular';
 }
 h5 {
 	color: #BA18A6;
-	font-family: 'klingon';
+	font-family: 'klingon_fontregular';
 }
 }
