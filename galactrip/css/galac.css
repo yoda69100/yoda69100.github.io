@@ -40,7 +40,8 @@ nav {
 	margin: auto;
 }
 li.nav-item {
-    font-family: lato;
+    font-family: Catamaran;
+	font-weignt: 100;
 }
 #carouselExampleFade {
 	margin-top: 80px;
@@ -156,7 +157,8 @@ p {
 	color: white;
 }
 li.nav-item {
-    font-family: lato;
+    font-family: Catamaran;
+	font-weignt: 100;
 }
 nav {max-width: 1080px; margin: auto;}
 #carouselExampleFade {
