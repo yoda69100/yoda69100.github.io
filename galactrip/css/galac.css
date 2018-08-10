@@ -39,6 +39,9 @@ nav {
 	min-width: 300px;
 	margin: auto;
 }
+li.nav-item {
+    font-family: lato;
+}
 #carouselExampleFade {
 	margin-top: 80px;
 }
@@ -152,7 +155,9 @@ body {
 p {
 	color: white;
 }
-
+li.nav-item {
+    font-family: lato;
+}
 nav {max-width: 1080px; margin: auto;}
 #carouselExampleFade {
 	margin-top: 80px;
