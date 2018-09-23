@@ -1,8 +1,8 @@
 @font-face {
     font-family: "klingon_fontregular";
-    src: url('yoda69100.github.io/galactrip/css/galacfont/klingon_font-webfont.woff2') format('woff2'),
-         url('yoda69100.github.io/galactrip/css/galacfont/klingon_font-webfont.woff') format('woff'),
-	 url('yoda69100.github.io/galactrip/css/galacfont/klingon_font-webfont.ttf') format('truetype');
+    src: url('https://yoda69100.github.io/galactrip/css/galacfont/klingon_font-webfont.woff2') format('woff2'),
+         url('https://yoda69100.github.io/galactrip/css/galacfont/klingon_font-webfont.woff') format('woff'),
+	 url('https://yoda69100.github.io/galactrip/css/galacfont/klingon_font-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
