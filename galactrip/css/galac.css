@@ -1,8 +1,8 @@
 @font-face {
     font-family: "klingon_fontregular";
-    src: url('../galacfont/klingon_font-webfont.woff2') format('woff2'),
-         url('../galacfont/klingon_font-webfont.woff') format('woff'),
-	 url('../galacfont/klingon_font-webfont.ttf') format('truetype');
+    src: url('galacfont/klingon_font-webfont.woff2') format('woff2'),
+         url('galacfont/klingon_font-webfont.woff') format('woff'),
+	 url('galacfont/klingon_font-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
