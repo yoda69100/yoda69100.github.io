@@ -3,7 +3,6 @@
     src: url("klingon_font-webfont.woff2") format("woff2"),
          url("klingon_font-webfont.woff") format("woff"),
 	 url("klingon_font-webfont.ttf") format("truetype");
-	url("klingon font.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 
